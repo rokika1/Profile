@@ -47,6 +47,10 @@ body {
   text-align: center;
 }
 
+#SocialsImage a {
+  text-decoration: none;
+}
+
 #SocialsImage img {
   height: 90px;
   width: 90px;
