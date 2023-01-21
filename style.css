@@ -47,15 +47,15 @@ body {
   text-align: center;
 }
 
-#SocialsImage a {
-  text-decoration: none;
-}
-
 #SocialsImage img {
   height: 90px;
   width: 90px;
   padding: 20px;
   display: inline;
+}
+
+#SocialsImage a {
+  text-decoration: none;
 }
 
 #SocialsImage img:hover {
