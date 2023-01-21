@@ -85,11 +85,19 @@ body {
   }
 }
 
-header img {
+#face img {
   margin: auto;
   display: block;
   height: 200px;
   width: 200px;
+}
+
+#bear img {
+  display: block;
+  height: 170px;
+  width: 170px;
+  margin-top: 20px;
+  margin-left: 20px;
 }
 
 .circle {
